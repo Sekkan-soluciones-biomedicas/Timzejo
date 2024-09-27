@@ -1,0 +1,2 @@
+Las carpetas de imagenes empleadas para entrenar el modelo están en Kaggle disponible en
+[Imagenes_de_la_marcha](https://kaggle.com/datasets/7f1ae58faaf5066f73bfbf27c00fee750f269dda43656ee75e90aa3f705905ac)
